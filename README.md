@@ -2,7 +2,7 @@
   <img src="images/NucleiNet_logo.png" alt="NucleiNet logo" width="300"/>
 </p>
 
-**NucleiNet** is a web-based application for **cell nucleus segmentation and quantitative analysis** of microscopy images. Built with **Python** and **Streamlit**, it supports both **single images** and **multi-frame stacks**, combines classical image processing with **U-Net–based deep learning**, and enables interactive exploration, batch processing, and metric export.
+**NucleiDetect** is a web-based application for **cell nucleus segmentation and quantitative analysis** of microscopy images. Built with **Python** and **Streamlit**, it supports both **single images** and **multi-frame stacks**, combines classical image processing with **U-Net–based deep learning**, and enables interactive exploration, batch processing, and metric export.
 
 ## Features
 
@@ -35,8 +35,8 @@ It is recommended to use a **clean virtual environment** (venv or conda).
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/NucleiNet.git
-cd NucleiNet
+git clone https://github.com/your-username/NucleiDetect.git
+cd NucleiDetect
 ```
 
 ## Install dependencies:
