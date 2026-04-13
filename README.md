@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/NucleiNet_logo.png" alt="NucleiNet logo" width="300"/>
+  <img src="images/NucleiDetect_logo.png" alt="NucleiDetect logo" width="300"/>
 </p>
 
 **NucleiDetect** is a web-based application for **cell nucleus segmentation and quantitative analysis** of microscopy images. Built with **Python** and **Streamlit**, it supports both **single images** and **multi-frame stacks**, combines classical image processing with **U-Net–based deep learning**, and enables interactive exploration, batch processing, and metric export.
